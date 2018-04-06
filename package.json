@@ -14,7 +14,8 @@
     "url": "https://github.com/machinomy/types-browser-passworder/issues"
   },
   "homepage": "https://github.com/machinomy/types-browser-passworder#readme",
-  "devDependencies": {
-    "@types/node": "^9.6.2"
+  "dependencies": {
+    "@machinomy/types-safe-buffer": "^0.0.1",
+    "safe-buffer": "^5.1.1"
   }
 }
