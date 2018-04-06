@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",
+    "lib": ["es2017", "dom"],
+    "sourceMap": true,
+    "declaration": true,
+    "strict": true,
+    "noImplicitReturns": true,
+    "typeRoots": [
+      "node_modules/@machinomy"
+    ],
+    "outDir": "dist"
+  },
+  "files": [
+    "index.d.ts"
+  ],
+  "include": [
+    "node_modules/**/index.d.ts"
+  ]
+}
