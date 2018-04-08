@@ -2,5 +2,5 @@
 
 # Installation
 ```
-yarn add https://github.com/machinomy/types-browser-passworder -D
+yarn add @machinomy/types-browser-passworder -D
 ```
